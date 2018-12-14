@@ -67,6 +67,7 @@ h3 {
     transition: all 0.3s ease 0s;
 }
 
+
 .card:hover {
     transform: translateY(-7px);
 }
@@ -109,4 +110,34 @@ a:hover {
 .col {
     margin-left: 70px;
     margin-right: 70px;
+}
+
+.form-group {
+    width: 1000px;
+    margin-left: -70px;
+}
+
+.bank-img {
+    width: 150px;
+    display: inline;
+}
+
+.custom-control-input {
+    margin-top: 10px;
+}
+
+.programs {
+    width: 200px;
+}
+
+.jumlah {
+    width: 400px;
+}
+
+.metode {
+    width: 200px;
+}
+
+label {
+    font-weight: 600;
 }
